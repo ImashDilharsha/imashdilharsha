@@ -40,13 +40,13 @@
     }
   },
   {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
-    "image": "instagrammern",
+    "name": "Petzy Android App",
+    "desc": "Full-Stack android applicaation implementation project for a pet nutrition shop",
+    "image": "instagrammern.png",
     "category": "mern",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "https://www.linkedin.com/feed/update/urn:li:activity:7271809327860977666/",
+      "code": "https://www.linkedin.com/feed/update/urn:li:activity:7271809327860977666/"
     }
   },
   {
