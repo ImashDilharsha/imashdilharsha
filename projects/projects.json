@@ -70,18 +70,18 @@
     }
   },
   {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "name": "Smart School Automation System",
+    "desc": "IOT based smart school autuomation and attendance marking complete system implementation.",
     "image": "reactprojects",
     "category": "mern",
     "links": {
-      "view": "https://www.linkedin.com/posts/imashdilharsha_webdev-softwareengineer-webdesign-activity-7254896124275146752-olFa?utm_source=share&utm_medium=member_desktop",
+      "view": "https://www.linkedin.com/posts/imashdilharsha_%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%98-%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%AB-%F0%9D%97%9A%F0%9D%97%98%F0%9D%97%A1-%F0%9D%97%A6%F0%9D%97%96%F0%9D%97%9B%F0%9D%97%A2%F0%9D%97%A2%F0%9D%97%9F-activity-7272142935926669313-BM60?utm_source=share&utm_medium=member_desktop",
       "code": "https://github.com/ImashDilharsha/BunTalkPOS"
     }
   },
   {
-    "name": "Flipkart PHP",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+    "name": "Asp.Net E-commerce System ",
+    "desc": "Full-Stack e-commerce website and dekstop application development based on service oriented architecture.",
     "image": "flipkartphp",
     "category": "lamp",
     "links": {
