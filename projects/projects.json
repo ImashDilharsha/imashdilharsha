@@ -42,7 +42,7 @@
   {
     "name": "Petzy Android App",
     "desc": "Full-Stack android applicaation implementation project for a pet nutrition shop",
-    "image": "instagrammern.png",
+    "image": "instagrammern",
     "category": "mern",
     "links": {
       "view": "https://www.linkedin.com/feed/update/urn:li:activity:7271809327860977666/",
@@ -90,8 +90,8 @@
     }
   },
   {
-    "name": "JavaScript Projects Website",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "name": "React JS Calculator",
+    "desc": "Developed a mathamatical calculator based on React JS and Node Js.",
     "image": "jspro",
     "category": "basicweb",
     "links": {
